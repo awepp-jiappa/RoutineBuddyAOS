@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoutineBuddy Parent</string>
+    <string name="child_name_hint">Child name</string>
+    <string name="child_age_group">Age group</string>
+    <string name="save_continue">Save &amp; Continue</string>
+    <string name="routine_title_hint">Routine title</string>
+    <string name="task_hint">Task title</string>
+    <string name="save_routine">Save Routine</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_routine">Add Routine</string>
+    <string name="routine_list_title">Routines</string>
+    <string name="child_profile_title">Child Profile</string>
+    <string name="create_routine_title">Create Routine</string>
+    <string name="edit_routine_title">Edit Routine</string>
+</resources>
